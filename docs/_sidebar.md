@@ -15,5 +15,6 @@
       - [2.2.4. Diagrama de Estados](/Modelagem/2.2.4.DiagramaEstados.md)
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1. Diagrama de Pacotes](/Modelagem/2.3.1.DiagramaDePacote.md)
+      - [2.3.2. Diagrama de Casos de Uso](/Modelagem/2.3.2.DiagramaDeCasoDeUso.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
