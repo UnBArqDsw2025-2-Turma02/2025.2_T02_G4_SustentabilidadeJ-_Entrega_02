@@ -160,6 +160,15 @@ Para iniciar o site localmente:
       </a>
     </td>
   </tr>
+     <tr>
+    <td align="center">
+      <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">
+        <img style="border-radius: 50%; border: 3px solid #4CAF50;" src="https://avatars.githubusercontent.com/u/100947807?v=4" width="120px;" alt="Lucas de Oliveira"/>
+        <br />
+        <sub><b>Lucas de Oliveira Dias Marques Ferreira</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -172,6 +181,7 @@ Para iniciar o site localmente:
 |-----------|---------|--------------|----------|------------|------------|
 | `v1.0` | 22/09/2025 | Configuração inicial do ambiente | [Artur Mendonça](https://github.com/ArtyMend07) | |
 | `v1.1` | 22/09/2025 | Atualização da introdução, equipe completa e logo | [Gabriel Lopes](https://github.com/BrzGab) |  |
+| `v1.2` | 22/09/2025 | Atualização dos membros da equipe | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) |  |
 </div>
 
 ---
