@@ -16,6 +16,7 @@
 | 23/1011426  | [Gustavo Gontijo](https://github.com/Guga301104) |
 | 22/2006801 | [Henrique Carvalho](https://github.com/henriquecarv3) |
 | 22/2006893  | [Kaio Macedo](https://github.com/bigkaio) |
+| 21/1062787  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | 23/1035464  | [Lucas Mendonça](https://github.com/lucasarruda9) |
 | 22/2006392 | [Renan Batista](https://github.com/renanpariiz) |
 
